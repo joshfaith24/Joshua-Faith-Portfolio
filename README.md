@@ -42,3 +42,5 @@ the best candidate for the position.
  https://github.com/joshfaith24/Joshua-Faith-Portfolio
  
 
+<img width="1440" alt="Screen Shot 2022-10-31 at 5 51 38 PM" src="https://user-images.githubusercontent.com/113576524/199117519-a18cb631-f804-4b94-bb70-36f9bbb66b4a.png">
+<img width="1440" alt="Screen Shot 2022-10-31 at 5 50 41 PM" src="https://user-images.githubusercontent.com/113576524/199117533-d98de30b-e2f3-463d-9ade-6f35db4ecbcb.png">
