@@ -82,7 +82,7 @@ main {
 
 .banner {
   background: var(--secondary);
-  background-image: url("./Assets/E045049B-658E-4114-B2DF-B8020F9ABE24.jpeg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("E045049B-658E-4114-B2DF-B8020F9ABE24.jpeg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: hard-light;
@@ -205,7 +205,7 @@ main {
 }
 
 .website {
-  background-image: url("./Assets/9F06ECF8-8B88-4FC8-BD3E-CAF433E16AE1_1_201_a.jpeg");
+  background-image: url("9F06ECF8-8B88-4FC8-BD3E-CAF433E16AE1_1_201_a.jpeg");
 }
 
 
