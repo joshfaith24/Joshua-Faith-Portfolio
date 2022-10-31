@@ -39,4 +39,6 @@ the best candidate for the position.
 ## Resource Link
  https://joshfaith24.github.io/Joshua-Faith-Portfolio/
  
+ https://github.com/joshfaith24/Joshua-Faith-Portfolio
+ 
 
