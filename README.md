@@ -37,5 +37,6 @@ my contact information, LinkedIn account and GitHub, places for the employers to
 the best candidate for the position. 
 
 ## Resource Link
-
+ https://joshfaith24.github.io/Joshua-Faith-Portfolio/
+ 
 
